@@ -8,5 +8,5 @@ Tekrar açıldığında eski yazdıklarınızın silinmeyerek yeni tarih ve saat
 
 
 Built with Google's speech_recognition library with Python Codes. 
-It is created for Turkish use as seen in the codes.  
+It is created for Turkish speakers as seen in the codes.  
 The date and time of speech will be added at the beginning part in the file that will ve popup after you have finished your talk.  All the speech will be written  in "KonusYaz.txt" on your desktop when you run the codes. 
